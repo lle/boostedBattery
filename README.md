@@ -6,7 +6,7 @@ So I love electronics. And after watching Doctor Battery's video (https://www.yo
 
 I have a ton of pictures and footage of the disassembly process. Gotta filter through all of that soon. And also, I'm happy to say that I was able to get Debug UART working. We are getting debug information back from the BMS.
 
-![Helios PCU](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/ports.png
+![Debug Ports](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/ports.png)
 
 ## Debug Port Pinout
 |               |        |           |            |
