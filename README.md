@@ -6,22 +6,19 @@ So I love electronics. And after watching Doctor Battery's video (https://www.yo
 
 I have a ton of pictures and footage of the disassembly process. Gotta filter through all of that soon. And also, I'm happy to say that I was able to get Debug UART working. We are getting debug information back from the BMS.
 
+# Debug and Programming Port Pinout
 ![Debug Ports](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/ports.png)
 
-## Debug Port Pinout
-|               |        |           |            |
-|---------------|--------|-----------|------------|
-|               | Pin    |           |            | 
+| DEBUG         | Pin    |           |            |
+|---------------|--------|-----------|------------| 
 |               | 1      | 10        |            |
 |               | 2      | 9         |            |
 | TX            | 3      | 8         |            |
 | RX            | 4      | 7         | BTN        |
 | LED-G         | 5      | 6         | LED-R      |
 
-## Programming Port Pinout
-|               |        |           |              |
+| PROGRAMMING   | Pin    |           |              | 
 |---------------|--------|-----------|--------------|
-|               | Pin    |           |              | 
 | MCLR          | 1      | 2         |              |
 |               | 3      | 4         | PG-D (data?) |
 | PG-C (clock?) | 5      | 6         |              |
