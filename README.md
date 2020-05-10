@@ -12,7 +12,7 @@ It has been determined by the Doctor Battery's youtube video that the battery is
 By looking under the PCB, we can find test points for each of the cell as well as test points for what appears to be temperature sensor. Here is the test points for the battery inputs.
 
 ![Battery Ports](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/batteryMon.png)
-| Battery Monitor  |	|
+| Battery Monitor Testpoints	|
 |------------------|----|
 | 		| C0	|
 | TS1-L	| 		|
@@ -51,14 +51,16 @@ Using a multimeter, we can determine the voltage of each cells in our test batte
 | 11	| 3.6	|
 | 12	| 3.6	|
 | 13	| 3.3	|
-### Hypothesis: Is it possible that the BMS threw a RLOD because the cell were too unbalance?
+
+> Hypothesis: 
+> Is it possible that the BMS threw a RLOD because the cell were too unbalance?
 
 ## Debug and Programming Port Pinout
 On the side of the PCB, there are two pogo pin ports: DEBUG and PROGRAMMING. The pogo pin ports adapter can be found here through [Tag-Connect.com](https://www.tag-connect.com/product/tc2030-idc-6-pin-tag-connect-plug-of-nails-spring-pin-cable-with-legs). By looking under the PCB, we can locate test-points. Using a multimeter, we can test continuity and determine where the signals go on the pogo pin.
 
 ![Debug Ports](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/ports.png)
 
-| DEBUG         | Pin    |           |            |
+| DEBUG         |    	 |           |            |
 |---------------|--------|-----------|------------| 
 |               | 1      | 10        |            |
 |               | 2      | 9         |            |
@@ -66,7 +68,7 @@ On the side of the PCB, there are two pogo pin ports: DEBUG and PROGRAMMING. The
 | RX            | 4      | 7         | BTN        |
 | LED-G         | 5      | 6         | LED-R      |
 
-| PROGRAMMING   | Pin    |           |              | 
+| PROGRAMMING   | 	     |           |              | 
 |---------------|--------|-----------|--------------|
 | MCLR          | 1      | 2         |              |
 |               | 3      | 4         | PG-D (data?) |
