@@ -6,6 +6,12 @@ So I love electronics. And after watching Doctor Battery's video (https://www.yo
 
 I have a ton of pictures and footage of the disassembly process. Gotta filter through all of that soon. And also, I'm happy to say that I was able to get Debug UART working. We are getting debug information back from the BMS.
 
+## Hardware Overview
+So after much a lot of effort to pry the battery block out, we get a look at this beautiful PCB. 
+![Boosted V2 XR Battery](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/topview.JPG)
+Using the microscope, we can get the part number of the important ICs which can be relevant for our analysis.
+![Boosted V2 XR Battery](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/overview.png)
+
 ## 13S2P Battery Connector
 It has been determined by the Doctor Battery's youtube video that the battery is 13 cells LiFePO4. A fully charged cell is 3.6V, and the nominal voltage is 3.2V. 
 
