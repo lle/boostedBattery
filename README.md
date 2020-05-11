@@ -9,8 +9,18 @@ I have a ton of pictures and footage of the disassembly process. Gotta filter th
 ## Hardware Overview
 So after much a lot of effort to pry the battery block out, we get a look at this beautiful PCB. 
 ![Boosted V2 XR Battery](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/topview.JPG)
+
 Using the microscope, we can get the part number of the important ICs which can be relevant for our analysis.
-![Boosted V2 XR Battery](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/overview.png)
+![Battery IC Analysis](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/overview.png)
+
+Here is what we are looking at:
+* Buck Regulator: [LM5017](http://www.ti.com/lit/ds/symlink/lm5017.pdf?&ts=1589157738344)
+* High Voltage Battery charge/discharge NFET driver [BQ76200](http://www.ti.com/lit/ds/symlink/bq76200.pdf?&ts=1589157776395)
+* N-CH Power MOSFET [57N08](https://www.infineon.com/dgdl/BSC057N08NS3G_rev2.4.pdf?folderId=db3a304313b8b5a60113cee8763b02d7&fileId=db3a30431add1d95011ae803c9345616)
+* I2C LED Driver [TLC59108](http://www.ti.com/lit/ds/symlink/tlc59108.pdf?&ts=1589158260465)
+* Microchip 16bit MCU [dsPIC33EP512GP504](https://www.microchip.com/wwwproducts/en/dsPIC33EP512GP504)
+* 128Mb Flash Memory [IS25LP128](http://www.issi.com/WW/pdf/IS25LP128.pdf)
+* 15-cell battery monitor [BQ769x0](http://www.ti.com/lit/ds/symlink/bq76940.pdf?&ts=1589158546744)
 
 ## 13S2P Battery Connector
 It has been determined by the Doctor Battery's youtube video that the battery is 13 cells LiFePO4. A fully charged cell is 3.6V, and the nominal voltage is 3.2V. 
