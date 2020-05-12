@@ -24,7 +24,8 @@ Here is what we are looking at:
 * I2C LED Driver [TLC59108](http://www.ti.com/lit/ds/symlink/tlc59108.pdf?&ts=1589158260465)
 * Microchip 16bit MCU [dsPIC33EP512GP504](https://www.microchip.com/wwwproducts/en/dsPIC33EP512GP504)
 * 128Mb Flash Memory [IS25LP128](http://www.issi.com/WW/pdf/IS25LP128.pdf)
-* 15-cell battery monitor [BQ769x0](http://www.ti.com/lit/ds/symlink/bq76940.pdf?&ts=1589158546744)
+* 15-cell battery monitor [BQ769x0](http://www.ti.com/lit/ds/symlink/bq76940.pdf?&ts=1589158546744)as
+* FUSE (on top right): [45A](https://www.dexerials.jp/en/products/c3/sfk1245.html) credit to [u /DerDaku](https://www.reddit.com/r/boostedboards/comments/ghdyi7/bb_v2_xr_bms_pcb_analysis/fq9e78y?utm_source=share&utm_medium=web2x) for finding it.
 
 ## 13S2P Battery Connector
 It has been determined by the Doctor Battery's youtube video that the battery is 13 cells LiFePO4. A fully charged cell is 3.6V, and the nominal voltage is 3.2V. 
