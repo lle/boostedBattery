@@ -3,7 +3,7 @@ This repo contains data, pictures and footage of my teardown of the Boosted Boar
 
 Discussions:
 
--- [May 8th](https://www.reddit.com/r/boostedboards/comments/gg88ma/boosted_v2_xr_battery_teardown_here_is_the_pcb_in/) -- [May 9th](https://www.reddit.com/r/boostedboards/comments/ggvfu7/success_getting_debug_data_from_the_v2_xr_battery/) -- [May 10th](https://www.reddit.com/r/boostedboards/comments/ghdyi7/bb_v2_xr_bms_pcb_analysis/) --
+-- [May 8th](https://www.reddit.com/r/boostedboards/comments/gg88ma/boosted_v2_xr_battery_teardown_here_is_the_pcb_in/) -- [May 9th](https://www.reddit.com/r/boostedboards/comments/ggvfu7/success_getting_debug_data_from_the_v2_xr_battery/) -- [May 10th](https://www.reddit.com/r/boostedboards/comments/ghdyi7/bb_v2_xr_bms_pcb_analysis/) -- [May 19th](https://www.reddit.com/r/boostedboards/comments/gmzpmr/explanation_on_how_to_connect_bb_v2_xr_battery_to/) --
 
 ## Short Description
 So I love electronics. And after watching Doctor Battery's video (https://www.youtube.com/watch?v=XqM4JGT5Mbk) on his V2 battery teardown, it inspired me to look into my old dead V2 battery as well.
@@ -93,3 +93,7 @@ On the side of the PCB, there are two pogo pin ports: DEBUG and PROGRAMMING. The
 | MCLR          | 1      | 2         |              |
 |               | 3      | 4         | PG-D (data?) |
 | PG-C (clock?) | 5      | 6         |              |
+
+### How to connect the BMS to your computer over Serial
+Youtube Link:
+[![How to connect tutorial](http://img.youtube.com/vi/MxINsUNy42o/0.jpg)](https://www.youtube.com/watch?v=MxINsUNy42o)
