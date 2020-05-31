@@ -30,3 +30,4 @@ Here is what we are looking at:
 ### [13S2P Battery Connector](batConn.md)
 ### [Debug and Programming Port Pinout](debugConn.md)
 ### [Connecting BMS to Computer](uartHowTo.md)
+### [More Pictures of the PCB](bmsPic.md)
