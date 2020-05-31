@@ -9,7 +9,7 @@ So I love electronics. And after watching Doctor Battery's video (https://www.yo
 
 I have a ton of pictures and footage of the disassembly process. Gotta filter through all of that soon. And also, I'm happy to say that I was able to get Debug UART working. We are getting debug information back from the BMS.
 
-## Hardware Overview
+# Hardware Overview
 So after much a lot of effort to pry the battery block out, we get a look at this beautiful PCB. 
 ![Boosted V2 XR Battery](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/topview.JPG)
 
@@ -26,8 +26,8 @@ Here is what we are looking at:
 * 15-cell battery monitor [BQ769x0](http://www.ti.com/lit/ds/symlink/bq76940.pdf?&ts=1589158546744)as
 * FUSE (on top right): [45A](https://www.dexerials.jp/en/products/c3/sfk1245.html) credit to [u /DerDaku](https://www.reddit.com/r/boostedboards/comments/ghdyi7/bb_v2_xr_bms_pcb_analysis/fq9e78y?utm_source=share&utm_medium=web2x) for finding it.
 
-# BMS Investigation
-### [13S2P Battery Connector](batConn.md)
-### [Debug and Programming Port Pinout](debugConn.md)
-### [Connecting BMS to Computer](uartHowTo.md)
-### [More Pictures of the PCB](bmsPic.md)
+# Let's dig deeper into the BMS
+### [1. 13S2P Battery Connector](batConn.md)
+### [2. Debug and Programming Port Pinout](debugConn.md)
+### [3. Connecting BMS to Computer](uartHowTo.md)
+### [4. More Pictures of the PCB](bmsPic.md)
