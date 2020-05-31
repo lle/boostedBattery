@@ -2,10 +2,9 @@
 This repo contains data, pictures and footage of my teardown of the Boosted Board battery V2 Extended Range
 
 Discussions:
-
 -- [May 8th](https://www.reddit.com/r/boostedboards/comments/gg88ma/boosted_v2_xr_battery_teardown_here_is_the_pcb_in/) -- [May 9th](https://www.reddit.com/r/boostedboards/comments/ggvfu7/success_getting_debug_data_from_the_v2_xr_battery/) -- [May 10th](https://www.reddit.com/r/boostedboards/comments/ghdyi7/bb_v2_xr_bms_pcb_analysis/) -- [May 19th](https://www.reddit.com/r/boostedboards/comments/gmzpmr/explanation_on_how_to_connect_bb_v2_xr_battery_to/) --
 
-## Short Description
+## About this
 So I love electronics. And after watching Doctor Battery's video (https://www.youtube.com/watch?v=XqM4JGT5Mbk) on his V2 battery teardown, it inspired me to look into my old dead V2 battery as well.
 
 I have a ton of pictures and footage of the disassembly process. Gotta filter through all of that soon. And also, I'm happy to say that I was able to get Debug UART working. We are getting debug information back from the BMS.
@@ -27,7 +26,7 @@ Here is what we are looking at:
 * 15-cell battery monitor [BQ769x0](http://www.ti.com/lit/ds/symlink/bq76940.pdf?&ts=1589158546744)as
 * FUSE (on top right): [45A](https://www.dexerials.jp/en/products/c3/sfk1245.html) credit to [u /DerDaku](https://www.reddit.com/r/boostedboards/comments/ghdyi7/bb_v2_xr_bms_pcb_analysis/fq9e78y?utm_source=share&utm_medium=web2x) for finding it.
 
-# DIGGING DEEPER
-## [13S2P Battery Connector](batConn.md)
-## [Debug and Programming Port Pinout](debugConn.md)
-## [Connecting BMS to Computer](uartHowTo.md)
+# BMS Investigation
+### [13S2P Battery Connector](batConn.md)
+### [Debug and Programming Port Pinout](debugConn.md)
+### [Connecting BMS to Computer](uartHowTo.md)
