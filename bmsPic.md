@@ -1,18 +1,18 @@
 ### High Definition pictures of the BMS PCB
 
-![1](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/raw/1.JPG)
+![1](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/raw/1.jpg)
 
-![2](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/raw/2.JPG)
+![2](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/raw/2.jpg)
 
-![3](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/raw/3.JPG)
+![3](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/raw/3.jpg)
 
-![4](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/raw/4.JPG)
+![4](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/raw/4.jpg)
 
-![5](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/raw/5.JPG)
+![5](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/raw/5.jpg)
 
-![6](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/raw/6.JPG)
+![6](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/raw/6.jpg)
 
-![7](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/raw/7.JPG)
+![7](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/raw/7.jpg)
 
 ![8](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/raw/8.JPG)
 
