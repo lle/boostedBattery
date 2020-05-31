@@ -3,7 +3,8 @@ It has been determined by the Doctor Battery's youtube video that the battery is
 
 By looking under the PCB, we can find test points for each of the cell as well as test points for what appears to be temperature sensor. Here is the test points for the battery inputs.
 
-![Battery Ports](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/batteryMon.png)
+![Battery Ports Top](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/batteryMonTop.png)
+![Battery Ports Bottom](https://raw.githubusercontent.com/lle/boostedBattery/master/pictures/PCB/batteryMon.png)
 | Battery Monitor | Testpoints	|
 |------------------|----|
 | 		| C0	|
