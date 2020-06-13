@@ -14,7 +14,11 @@ New next step: scrape away the conformal coating and replace the regulator
 
 ![Surgery](https://i.imgur.com/jt74I7V.png)
 
-After lots of effort and heat, the voltage regulator was removed. Wires for GND, 3.3V and 5V was soldered to the PCB and manually powered an external power supply
+After lots of effort and heat, the voltage regulator was removed. 
+
+![ExternalPSU](https://i.imgur.com/ngI7T30.png)
+
+Wires for GND, 3.3V and 5V was soldered to the PCB and manually powered an external power supply
 
 ![Power Draw](https://i.imgur.com/MmTGRy9.png)
 
