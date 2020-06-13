@@ -1,17 +1,22 @@
 ## Game Over... I burned my MCU
 The is the follow up and conclusion of my post on May 14th and June 13
-https://www.reddit.com/r/boostedboards/comments/gjxo3q/gg_i_just_fried_something_while_debugging_the_xr/
-https://www.reddit.com/r/boostedboards/comments/h8gjj7/boosted_xr_battery_well_the_voltage_regulator/
+* https://www.reddit.com/r/boostedboards/comments/gjxo3q/gg_i_just_fried_something_while_debugging_the_xr/
+* https://www.reddit.com/r/boostedboards/comments/h8gjj7/boosted_xr_battery_well_the_voltage_regulator/
 
 ![Shorted](https://i.redd.it/16ebwhr5ety41.png)
 
+### The story
 A loose low-voltage wire shorted to the high-voltage battery. Immediately fried the regulator. The chip is heating up!!!
 Panic mode! Had to snip away the battery terminal to cut the power to the whole unit... Man this is gonna add some delays.
 New next step: scrape away the conformal coating and replace the regulator
 
+### Surgery
+
 ![Surgery](https://i.imgur.com/jt74I7V.png)
 
 After lots of effort and heat, the voltage regulator was removed. Wires for GND, 3.3V and 5V was soldered to the PCB and manually powered an external power supply
+
+### Re-Powering up the board
 
 ![Power Draw](https://i.imgur.com/MmTGRy9.png)
 
