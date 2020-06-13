@@ -30,6 +30,6 @@ Look at channel 2. Unfortunately, the 3.3V rail is drawing wayyyyy to much power
 
 At this point, it can be concluded that the MCU died. 
 
-I really wanted to try out the new procedure from u/jonataubert (https://github.com/jonataubert/RLOD_B2XR). 
+I really wanted to try out the new procedure from @jonataubert (https://github.com/jonataubert/RLOD_B2XR). 
 
 It is with great disappointment that I have to tag out of the reverse engineering game of the BB XR.
