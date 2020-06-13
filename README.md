@@ -31,4 +31,4 @@ Here is what we are looking at:
 ### [2. Debug and Programming Port Pinout](debugConn.md)
 ### [3. Connecting BMS to Computer](uartHowTo.md)
 ### [4. More Pictures of the PCB](bmsPic.md)
-### [5. Game-over... I kill it](deadMCU.md)
+### [5. Game-over... I killed it](deadMCU.md)
