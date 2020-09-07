@@ -9,6 +9,8 @@ https://github.com/jonataubert/RLOD_B2XR
 
 https://github.com/rscullin/beambreak
 
+https://venutech.ca/projects/boosted-board
+
 ## About this
 So I love electronics. And after watching Doctor Battery's video (https://www.youtube.com/watch?v=XqM4JGT5Mbk) on his V2 battery teardown, it inspired me to look into my old dead V2 battery as well.
 
