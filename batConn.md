@@ -1,5 +1,11 @@
 ## 13S2P Battery Connector
-It has been determined by the Doctor Battery's youtube video that the battery is 13 cells LiFePO4. A fully charged cell is 3.6V, and the nominal voltage is 3.2V. 
+~~It has been determined by the Doctor Battery's youtube video that the battery is 13 cells LiFePO4. A fully charged cell is 3.6V, and the nominal voltage is 3.2V~~
+
+>Update 2020-10-24
+
+>I can't find the source to cross-reference my finding, but I suspect it is a 13s. When charging the XR battery until it turns green, the charging ends at 51.4V. Since it is 13s, the final voltage for 1 cell is 51.6V/13s = 3.97V. This is about 94% full charge. This is also consistent with Boosted's claim that they don't fully charge their battery to increase battery life and also allow some headroom for regen breaking.
+
+>This being said, the battery layout appears to be 13s2p, and the cells are charged to 94% (3.97V/cell).
 
 By looking under the PCB, we can find test points for each of the cell as well as test points for what appears to be temperature sensor. Here is the test points for the battery inputs.
 
