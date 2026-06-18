@@ -33,6 +33,4 @@ Here is what we are looking at:
 # Let's dig deeper into the BMS
 ### [1. 13S2P Battery Connector](batConn.md)
 ### [2. Debug and Programming Port Pinout](debugConn.md)
-### [3. Connecting BMS to Computer](uartHowTo.md)
-### [4. More Pictures of the PCB](bmsPic.md)
-### [5. Game-over... I killed it](deadMCU.md)
+### [3. More Pictures of the PCB](bmsPic.md)
