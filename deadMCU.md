@@ -3,8 +3,6 @@ The is the follow up and conclusion of my post on May 14th and June 13
 * https://www.reddit.com/r/boostedboards/comments/gjxo3q/gg_i_just_fried_something_while_debugging_the_xr/
 * https://www.reddit.com/r/boostedboards/comments/h8gjj7/boosted_xr_battery_well_the_voltage_regulator/
 
-![Shorted](https://i.redd.it/16ebwhr5ety41.png)
-
 ### The story
 A loose low-voltage wire shorted to the high-voltage battery. Immediately fried the regulator. The chip is heating up!!!
 Panic mode! Had to snip away the battery terminal to cut the power to the whole unit... Man this is gonna add some delays.
