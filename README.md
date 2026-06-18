@@ -1,9 +1,6 @@
 # Boosted Battery Reverse Engineering
 This repo contains data, pictures and footage of my teardown of the Boosted Board battery V2 Extended Range
 
-Discussions:
--- [May 8th](https://www.reddit.com/r/boostedboards/comments/gg88ma/boosted_v2_xr_battery_teardown_here_is_the_pcb_in/) -- [May 9th](https://www.reddit.com/r/boostedboards/comments/ggvfu7/success_getting_debug_data_from_the_v2_xr_battery/) -- [May 10th](https://www.reddit.com/r/boostedboards/comments/ghdyi7/bb_v2_xr_bms_pcb_analysis/) -- [May 19th](https://www.reddit.com/r/boostedboards/comments/gmzpmr/explanation_on_how_to_connect_bb_v2_xr_battery_to/) --
-
 #### !!! Other great people who did amazing work on the reverse engineering !!!
 https://github.com/jonataubert/RLOD_B2XR
 
